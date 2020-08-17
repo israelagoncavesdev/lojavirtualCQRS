@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj",
+        "projectName": "MinhaLojaVirtual.Core",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj",
+        "projectName": "MinhaLojaVirtual.Pagamentos.Business",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

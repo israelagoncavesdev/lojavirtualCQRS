@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-MinhaLoja.WebApps.MVC-A3EC4FE3-8507-411B-BCC0-0C746600EBA3</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Views\AdminProdutos\AtualizarProduto.cshtml" />
+    <None Include="Views\AdminProdutos\Estoque.cshtml" />
+    <None Include="Views\AdminProdutos\Index.cshtml" />
+    <None Include="Views\AdminProdutos\NovoProduto.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\Privacy.cshtml" />
+    <None Include="Views\Shared\Components\Cart\Default.cshtml" />
+    <None Include="Views\Shared\Components\Summary\Default.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\_CookieConsentPartial.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_LoginPartial.cshtml" />
+    <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="Views\Vitrine\Index.cshtml" />
+    <None Include="Views\Vitrine\ProdutoDetalhe.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="MediatR" Version="8.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MinhaLojaVirtual.Catalogo.Application\MinhaLojaVirtual.Catalogo.Application.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Catalogo.Data\MinhaLojaVirtual.Catalogo.Data.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Catalogo.Domain\MinhaLojaVirtual.Catalogo.Domain.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Core.Data\MinhaLojaVirtual.Vendas.Application.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Core.Domain\MinhaLojaVirtual.Vendas.Data.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Core\MinhaLojaVirtual.Core.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Pagamentos.AntiCorruption\MinhaLojaVirtual.Pagamentos.AntiCorruption.csproj" />
+    <ProjectReference Include="..\MinhaoLojaVirtual.Pagamentos.Data\MinhaoLojaVirtual.Pagamentos.Data.csproj" />
+  </ItemGroup>
+
+</Project>

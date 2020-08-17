@@ -1,0 +1,17 @@
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.deps.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.runtimeconfig.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.runtimeconfig.dev.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Core.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Core.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.csprojAssemblyReference.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.AssemblyInfoInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.AssemblyInfo.cs
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.csproj.CoreCompileInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.csproj.CopyComplete
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Data\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Data.genruntimeconfig.cache

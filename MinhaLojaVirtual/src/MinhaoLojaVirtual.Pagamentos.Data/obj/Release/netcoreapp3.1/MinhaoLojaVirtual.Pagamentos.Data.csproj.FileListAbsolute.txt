@@ -1,0 +1,17 @@
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\bin\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.deps.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\bin\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.runtimeconfig.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\bin\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.runtimeconfig.dev.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\bin\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\bin\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Core.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Core.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\obj\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.csprojAssemblyReference.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\obj\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.AssemblyInfoInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\obj\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.AssemblyInfo.cs
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\obj\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.csproj.CoreCompileInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\obj\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.csproj.CopyComplete
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\obj\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\obj\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaoLojaVirtual.Pagamentos.Data\obj\Release\netcoreapp3.1\MinhaoLojaVirtual.Pagamentos.Data.genruntimeconfig.cache

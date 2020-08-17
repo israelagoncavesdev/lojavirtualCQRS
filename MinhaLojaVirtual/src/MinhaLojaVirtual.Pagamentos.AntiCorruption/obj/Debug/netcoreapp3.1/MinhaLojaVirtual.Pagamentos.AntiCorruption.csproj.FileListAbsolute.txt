@@ -1,0 +1,14 @@
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.deps.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Core.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Core.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.csprojAssemblyReference.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.AssemblyInfo.cs
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.csproj.CopyComplete
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.AntiCorruption.pdb

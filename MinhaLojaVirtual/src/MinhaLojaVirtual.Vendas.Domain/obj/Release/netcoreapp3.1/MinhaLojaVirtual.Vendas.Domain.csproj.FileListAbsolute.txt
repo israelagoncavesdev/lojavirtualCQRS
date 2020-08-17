@@ -1,0 +1,12 @@
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.deps.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Core.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Core.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.csprojAssemblyReference.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.AssemblyInfo.cs
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.csproj.CopyComplete
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Vendas.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.pdb

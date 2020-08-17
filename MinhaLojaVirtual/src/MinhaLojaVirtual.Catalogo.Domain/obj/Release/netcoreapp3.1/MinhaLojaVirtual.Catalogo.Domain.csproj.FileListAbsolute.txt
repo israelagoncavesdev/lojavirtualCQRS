@@ -1,0 +1,12 @@
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.deps.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Core.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Core.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.csprojAssemblyReference.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.AssemblyInfo.cs
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.csproj.CopyComplete
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Catalogo.Domain\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Catalogo.Domain.pdb

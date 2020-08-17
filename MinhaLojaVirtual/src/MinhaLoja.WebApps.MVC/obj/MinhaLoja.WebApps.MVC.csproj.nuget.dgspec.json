@@ -1,0 +1,848 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLoja.WebApps.MVC\\MinhaLoja.WebApps.MVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLoja.WebApps.MVC\\MinhaLoja.WebApps.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLoja.WebApps.MVC\\MinhaLoja.WebApps.MVC.csproj",
+        "projectName": "MinhaLoja.WebApps.MVC",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLoja.WebApps.MVC\\MinhaLoja.WebApps.MVC.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLoja.WebApps.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Application\\MinhaLojaVirtual.Catalogo.Application.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Application\\MinhaLojaVirtual.Catalogo.Application.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Data\\MinhaLojaVirtual.Catalogo.Data.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Data\\MinhaLojaVirtual.Catalogo.Data.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\MinhaLojaVirtual.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\MinhaLojaVirtual.Catalogo.Domain.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Data\\MinhaLojaVirtual.Vendas.Application.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Data\\MinhaLojaVirtual.Vendas.Application.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Domain\\MinhaLojaVirtual.Vendas.Data.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Domain\\MinhaLojaVirtual.Vendas.Data.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.AntiCorruption\\MinhaLojaVirtual.Pagamentos.AntiCorruption.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.AntiCorruption\\MinhaLojaVirtual.Pagamentos.AntiCorruption.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaoLojaVirtual.Pagamentos.Data\\MinhaoLojaVirtual.Pagamentos.Data.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaoLojaVirtual.Pagamentos.Data\\MinhaoLojaVirtual.Pagamentos.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Application\\MinhaLojaVirtual.Catalogo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Application\\MinhaLojaVirtual.Catalogo.Application.csproj",
+        "projectName": "MinhaLojaVirtual.Catalogo.Application",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Application\\MinhaLojaVirtual.Catalogo.Application.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\MinhaLojaVirtual.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\MinhaLojaVirtual.Catalogo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Data\\MinhaLojaVirtual.Catalogo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Data\\MinhaLojaVirtual.Catalogo.Data.csproj",
+        "projectName": "MinhaLojaVirtual.Catalogo.Data",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Data\\MinhaLojaVirtual.Catalogo.Data.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\MinhaLojaVirtual.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\MinhaLojaVirtual.Catalogo.Domain.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\MinhaLojaVirtual.Catalogo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\MinhaLojaVirtual.Catalogo.Domain.csproj",
+        "projectName": "MinhaLojaVirtual.Catalogo.Domain",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\MinhaLojaVirtual.Catalogo.Domain.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Catalogo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "mediatr": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Data\\MinhaLojaVirtual.Vendas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Data\\MinhaLojaVirtual.Vendas.Application.csproj",
+        "projectName": "MinhaLojaVirtual.Vendas.Application",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Data\\MinhaLojaVirtual.Vendas.Application.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Vendas.Domain\\MinhaLojaVirtual.Vendas.Domain.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Vendas.Domain\\MinhaLojaVirtual.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Domain\\MinhaLojaVirtual.Vendas.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Domain\\MinhaLojaVirtual.Vendas.Data.csproj",
+        "projectName": "MinhaLojaVirtual.Vendas.Data",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Domain\\MinhaLojaVirtual.Vendas.Data.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Vendas.Domain\\MinhaLojaVirtual.Vendas.Domain.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Vendas.Domain\\MinhaLojaVirtual.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj",
+        "projectName": "MinhaLojaVirtual.Core",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.AntiCorruption\\MinhaLojaVirtual.Pagamentos.AntiCorruption.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.AntiCorruption\\MinhaLojaVirtual.Pagamentos.AntiCorruption.csproj",
+        "projectName": "MinhaLojaVirtual.Pagamentos.AntiCorruption",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.AntiCorruption\\MinhaLojaVirtual.Pagamentos.AntiCorruption.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.AntiCorruption\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj",
+        "projectName": "MinhaLojaVirtual.Pagamentos.Business",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Vendas.Domain\\MinhaLojaVirtual.Vendas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Vendas.Domain\\MinhaLojaVirtual.Vendas.Domain.csproj",
+        "projectName": "MinhaLojaVirtual.Vendas.Domain",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Vendas.Domain\\MinhaLojaVirtual.Vendas.Domain.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Vendas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaoLojaVirtual.Pagamentos.Data\\MinhaoLojaVirtual.Pagamentos.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaoLojaVirtual.Pagamentos.Data\\MinhaoLojaVirtual.Pagamentos.Data.csproj",
+        "projectName": "MinhaoLojaVirtual.Pagamentos.Data",
+        "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaoLojaVirtual.Pagamentos.Data\\MinhaoLojaVirtual.Pagamentos.Data.csproj",
+        "packagesPath": "C:\\Users\\igoncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaoLojaVirtual.Pagamentos.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igoncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Core\\MinhaLojaVirtual.Core.csproj"
+              },
+              "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj": {
+                "projectPath": "C:\\Projects\\israelagoncalvesdev\\Magnum\\lojavirtualCQRS\\MinhaLojaVirtual\\src\\MinhaLojaVirtual.Pagamentos.Business\\MinhaLojaVirtual.Pagamentos.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

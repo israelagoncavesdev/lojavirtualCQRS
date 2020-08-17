@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MinhaLojaVirtual.Catalogo.Application\MinhaLojaVirtual.Catalogo.Application.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Catalogo.Data\MinhaLojaVirtual.Catalogo.Data.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Catalogo.Domain\MinhaLojaVirtual.Catalogo.Domain.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Core.Data\MinhaLojaVirtual.Vendas.Application.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Core.Domain\MinhaLojaVirtual.Vendas.Data.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Core\MinhaLojaVirtual.Core.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Pagamentos.AntiCorruption\MinhaLojaVirtual.Pagamentos.AntiCorruption.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Pagamentos.Business\MinhaLojaVirtual.Pagamentos.Business.csproj" />
+    <ProjectReference Include="..\MinhaLojaVirtual.Vendas.Domain\MinhaLojaVirtual.Vendas.Domain.csproj" />
+    <ProjectReference Include="..\MinhaoLojaVirtual.Pagamentos.Data\MinhaoLojaVirtual.Pagamentos.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+
+</Project>

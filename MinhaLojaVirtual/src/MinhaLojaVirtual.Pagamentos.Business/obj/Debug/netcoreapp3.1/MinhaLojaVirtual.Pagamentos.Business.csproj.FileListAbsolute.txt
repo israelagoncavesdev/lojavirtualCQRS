@@ -1,0 +1,12 @@
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.deps.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Core.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\bin\Debug\netcoreapp3.1\MinhaLojaVirtual.Core.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.csprojAssemblyReference.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.AssemblyInfo.cs
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.csproj.CopyComplete
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Pagamentos.Business\obj\Debug\netcoreapp3.1\MinhaLojaVirtual.Pagamentos.Business.pdb

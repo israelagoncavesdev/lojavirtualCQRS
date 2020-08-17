@@ -1,0 +1,14 @@
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.deps.json
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Core.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Core.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\bin\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Domain.pdb
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.csprojAssemblyReference.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.AssemblyInfoInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.AssemblyInfo.cs
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.csproj.CopyComplete
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.dll
+C:\Projects\israelagoncalvesdev\Magnum\lojavirtualCQRS\MinhaLojaVirtual\src\MinhaLojaVirtual.Core.Data\obj\Release\netcoreapp3.1\MinhaLojaVirtual.Vendas.Application.pdb
